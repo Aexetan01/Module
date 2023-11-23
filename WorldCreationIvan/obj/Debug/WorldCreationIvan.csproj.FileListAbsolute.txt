@@ -1,0 +1,16 @@
+C:\Users\goss_rivero\source\repos\WorldCreationIvan\bin\Debug\WorldCreationIvan.exe.config
+C:\Users\goss_rivero\source\repos\WorldCreationIvan\bin\Debug\WorldCreationIvan.exe
+C:\Users\goss_rivero\source\repos\WorldCreationIvan\bin\Debug\WorldCreationIvan.pdb
+C:\Users\goss_rivero\source\repos\WorldCreationIvan\obj\Debug\WorldCreationIvan.csproj.AssemblyReference.cache
+C:\Users\goss_rivero\source\repos\WorldCreationIvan\obj\Debug\WorldCreationIvan.csproj.SuggestedBindingRedirects.cache
+C:\Users\goss_rivero\source\repos\WorldCreationIvan\obj\Debug\WorldCreationIvan.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\WorldCreationIvan\obj\Debug\WorldCreationIvan.exe
+C:\Users\goss_rivero\source\repos\WorldCreationIvan\obj\Debug\WorldCreationIvan.pdb
+C:\Users\goss_rivero\source\repos\ModuleIvan\WorldCreationIvan\bin\Debug\WorldCreationIvan.exe.config
+C:\Users\goss_rivero\source\repos\ModuleIvan\WorldCreationIvan\bin\Debug\WorldCreationIvan.exe
+C:\Users\goss_rivero\source\repos\ModuleIvan\WorldCreationIvan\bin\Debug\WorldCreationIvan.pdb
+C:\Users\goss_rivero\source\repos\ModuleIvan\WorldCreationIvan\obj\Debug\WorldCreationIvan.csproj.AssemblyReference.cache
+C:\Users\goss_rivero\source\repos\ModuleIvan\WorldCreationIvan\obj\Debug\WorldCreationIvan.csproj.SuggestedBindingRedirects.cache
+C:\Users\goss_rivero\source\repos\ModuleIvan\WorldCreationIvan\obj\Debug\WorldCreationIvan.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\ModuleIvan\WorldCreationIvan\obj\Debug\WorldCreationIvan.exe
+C:\Users\goss_rivero\source\repos\ModuleIvan\WorldCreationIvan\obj\Debug\WorldCreationIvan.pdb
